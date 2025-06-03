@@ -6,7 +6,6 @@ import WelcomeScreen from '../screens/WelcomeScreen';
 import HomeScreen from '../screens/HomeScreen';
 
 const Stack = createNativeStackNavigator();
-console.log('WelcomeScreen es:', WelcomeScreen);
 
 function AppNavigation() {
     return (
